@@ -1,0 +1,477 @@
+html,
+body {
+	font-family: sans-serif;
+	background: #eee;
+	padding: 0px;
+	margin: 0 auto;
+}
+
+/* Remove Extra Padding */
+#Content {
+	padding-top: 0px !important;
+}
+
+/* New LOGO */
+#Top_bar.logo{
+	background: #000 !important;
+}
+
+img.logo-main.scale-with-grid{
+	height: 67px;
+	margin: auto 0;
+	image-rendering: auto;
+}
+/* End Logo" */
+
+/* YouTube Embed */
+.fluid-video-wrapper{
+	width:100%;
+	position:relative;
+	padding:0;
+	height: 400px;
+}
+
+.fluid-video-wrapper iframe, .fluid-video-wrapper object, .fluid-video-wrapper embed {	
+	top:0;
+	left:0;
+	width: 100%;
+	height: 100%;
+}
+
+
+/* Slider Image Height 
+.main_prov_news .image_wrapper {
+	background: url(http://rpnradio.com/wp-content/uploads/2018/11/generic-reg-30.png);
+	background-size: cover;
+	z-index: 0;
+}
+*/
+
+.main_prov_news .scale-with-grid {
+	width: auto;
+	height: 195px;
+	object-fit: cover;
+	z-index: 1;
+}
+
+.nat_news div ul .slick-list {
+	min-height: 260px;
+}
+
+.main_prov_news div ul .slick-list {
+	min-height: 260px;
+}
+
+
+.slick-track{
+	min-height: 260px
+}
+/* End Slider Image Height */
+
+/* TEST 
+.national-news-slider{
+	margin-top: 10px !important;
+}
+
+.blog_slider.clearfix {
+	margin: 0 auto;
+}
+
+*/
+
+
+/* RECT ADS */
+.ad-rect{
+	padding: 10px 0;
+	margin: 0 auto;
+	display: block;
+	max-height: 280px;
+	width: auto;
+}
+/* End Rect Ads */
+
+.blog-teaser li:not(.has-post-thumbnail) .desc-wrapper .desc {
+    background: rgba(10, 10, 10, 0.2);
+	padding: 12px;
+}
+
+
+/* PROVINCIAL NEWS READ */
+.fixed-nav.fixed-nav-prev{
+	display: none;
+}
+
+.fixed-nav.fixed-nav-next{
+	display: none;
+}
+
+.image_frame .image_wrapper .image_links a{
+	display: none;
+	overflow: hidden;
+}
+
+.mask{
+	display: none;
+}
+
+/* PLAYING WITH LOGO
+.logo a img{
+	width:200px;
+  height:200px;
+  box-sizing:border-box;
+  padding-left: 200px;
+ 
+  background: url(http://rpnradio.com/wp-content/uploads/2018/01/footer-logo.png) left top no-repeat;
+}
+*/
+
+h1, h2, h3, h4, .text-logo #logo{
+	font-family: sans-serif;
+	line-height:1.2em;
+	margin: auto;
+	font-size: 1.0rem;
+	color: #fff;
+	text-overflow: clip;
+}
+
+.column_attr.align_left{
+	overflow: hidden;
+}
+
+.column-margin-0px.column{
+	overflow: hidden;
+}
+
+.entry-title{
+	color: #000;
+}
+
+.blog_slider .blog_slider_ul li .item_wrapper{
+	margin-left: 0;
+	margin-right: 0;
+	margin-top: 10px;
+	left: 0;
+	right: 0;
+}
+
+.blog_slider_header{
+	display:none;
+}
+
+/* BLOG SLIDER ITEMS */
+
+/* DATE */
+.blog_slider .blog_slider_ul li .item_wrapper .date_label{
+	position: absolute;
+	z-index: 20;
+	top: 104%;
+	background: none;
+	color: #333; 
+}
+/* NEWS TITLE */
+.desc{
+	padding: 0 5px;
+}
+
+.desc h4{
+	font-family: sans-serif;
+	font-size: 16px;
+	letter-spacing: 0;
+}
+
+/* NEWS READ MORE */
+.hr_color{
+	display: none;
+}
+
+/* BUTTON READ MORE */
+a.button:not(.action_button){
+	background: transparent;
+	float: right;
+	margin: 0;
+}
+
+a.button .button_icon{
+opacity: 0;
+}
+
+.image_wrapper{
+	height: 100%;
+}
+
+.button.button_left.button_js .kill_the_icon{
+margin: 0;	
+}
+
+.button_label{
+	padding: 15px;
+}
+
+.blog_slider .blog_slider_ul li .item_wrapper .image_frame{
+	margin: 0;
+	margin-bottom: 0px;
+	min-height: 52px;
+}
+
+.item_frame, .image_frame{
+	border: none;
+	margin: 0;
+}
+
+
+/* EXTRA HEADER?? 
+.wrap.mcb-wrap.one.column-margin-0px.valign-middle.clearfix{
+	padding: 20px 0px;
+	height: 90px;
+}
+*/
+
+/* RPN LOGO 
+@media(min-width:768px){
+		#logo{
+			width: auto;
+			margin: 0 30px 0 20px;
+			padding: 0;background: url()
+	}
+}
+
+ END LOGO */
+
+/* NAV ITEMS */
+#Top_bar #menu ul li a span{
+	text-transform: uppercase;
+	font-weight: 900;
+}
+
+/* SEARCH BOX */
+.top_bar_right{
+	display: none;
+	width: 0;
+}
+
+.the_content_wrapper{
+	font-size: 1rem;
+}
+
+.section.section-post-about{
+	display: none;
+}
+
+/* WHOLE SITE RESPONSIVE */
+#Wrapper{
+	margin: 0 auto;
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	box-shadow: none;
+}
+
+/*
+@media only screen and (
+	max-width: 1239px) and (min-width: 960px){
+#Wrapper, .section_wrapper, .container, .with_aside.content_wrapper{
+    width: 80%;
+	max-width: 1200px;
+	}
+}
+
+@media only screen and (max-width: 959px) and (min-width: 768px){
+	#Wrapper {
+    width: 100%;
+	max-width: 1200px;
+	}
+	
+}
+
+@media only screen and (max-width: 767px){
+#Wrapper {
+    max-width: 100%;
+	}
+	.section_wrapper.mcb-section-inner{
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.blog_slider{
+		max-width: 80%;
+	}
+	#Header{
+		height: 117px !important;
+		background: #000;
+	}
+}
+
+*/
+
+@media only screen and (max-width: 959px) and (min-width: 768px){
+#Wrapper .section_wrapper, .container, .with_aside .content_wrapper {
+    max-width: 1200px;
+	padding: 0 10px;
+}
+}
+
+@media only screen and (max-width: 1239px) and (min-width: 960px){
+.section_wrapper, .container, .with_aside .content_wrapper {
+    max-width: 1200px;
+	}
+}
+
+
+@media only screen and (min-width: 1200px){
+#Content, .with_aside.content_wrapper,
+	.content_wrapper.clearfix{
+  	width: 100%;
+		margin: 0 auto;
+	}
+}
+
+
+
+#Top_bar{
+	height: 97px; /* 97px */
+}
+
+
+/* FOOTER */
+#footer {
+  padding: 10px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  color: #fff;
+}
+
+.links {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 550;
+  font-size: 0.7rem;
+  display: inline;
+  list-style: none;
+}
+
+.links li {
+  display: inline;
+  padding: 10px;
+  color: #fff;
+}
+
+.links li a {
+  text-decoration: none;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.links li a:hover {
+  color: #dd0c11;
+  text-decoration-style: none;
+}
+
+.links-container {
+  padding: 40px;
+}
+
+.copyright {
+  margin-top: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #aaa;
+  font-size: 0.8rem;
+}
+
+@media (max-width: 1024px) {
+  .links li {
+    display: block;
+    padding: 10px 0;
+  }
+}
+
+/* END FOOTER */
+
+
+.special-item{
+	font-weight: bold;
+}
+
+/* STATIONS LIST */
+.stations-flex-box{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	/*
+padding-left: 10px;
+	padding-right: 0px;
+
+	padding-bottom: 10px; */
+ margin: auto;
+	/*background: #eee;*/
+	flex: wrap;
+	align-items: center;
+    justify-content: center;
+}
+
+.station-item{
+	width: calc(100% * (1/2) - 1.5px - 1px);
+	margin: 0;
+	padding: 0;
+}
+
+/* PH TIME */
+.PHTime{
+	max-height: 45px;
+}
+
+.PHTime div{
+	min-height: 25px;
+	margin-bottom: 10px !important;
+}
+
+.PHTime div h5{
+	margin-bottom: 0 !important;
+	color: white;
+	overflow: hidden;
+}
+
+/* ABOUT US */
+.about-subhead div h5{
+	font-weight: bold;
+	font-family: inherit;
+	margin: 0;
+	padding: 0;
+}
+
+.about-content {
+	margin: 10px;
+}
+
+.about-content div {
+font-family: inherit;
+	font-size: 1rem;
+	line-height: 1.5rem;
+	text-align: justify;
+}
+
+/* DT CLOCK */
+.dt_clocks{
+	padding-top: 20px;
+	margin: 0 !important;	
+	list-style: none;
+}
+
+.dt_clocks li{
+	list-style: none;
+	margin: 0 !important;
+	text-align: center;
+}
+
+/* END OF MAIN CUSTOMIZATIONS */
+
+/* Mobile View - Remove Padding*/
+@media only screen and (max-width: 767px) {
+	.section_wrapper.mcb-section-inner{
+		padding: 0 !important;
+	}
+	
+	.wrap.mcb-wrap.two-third.valign-top.clearfix{
+		padding: 0 !important;
+	}
+	
+	.wrap.mcb-wrap.one-third.column-margin-0px.valign-top.clearfix{
+		padding: 0 !important;
+	}
+}
