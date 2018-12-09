@@ -48,7 +48,7 @@ body {
 
 .menu-main-menu-container, .sub-menu{
 	color: black;
-	background: rgba(0,0,0, 0.02) !important;
+	background: #fff !important;
 }
 
 /* New LOGO */
