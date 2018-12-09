@@ -1,6 +1,6 @@
 html,
 body {
-	font-family: sans-serif;
+	font-family: 'Lato', sans-serif;
 	background: #eee;
 	padding: 0px;
 	margin: 0 auto;
@@ -11,9 +11,49 @@ body {
 	padding-top: 0px !important;
 }
 
+#Header_wrapper, .header_placeholder, .container, .column.one {
+	background: #fff !important;
+}
+
+/* MENU ICON */
+.icon-menu-fine{
+	color: black;
+}
+
+.menu-toggle{
+	color: black;
+}
+
+/* MENU */
+#menu-main-menu li a span{
+	color: black;
+	opacity: 1.0;
+}
+
+#Footer {
+	background: black !important;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+#Footer div div {
+	background: black !important;
+	padding: 0 !important;
+}
+
+#Footer div div div.column.one {
+	background: black !important;
+}
+
+
+.menu-main-menu-container, .sub-menu{
+	color: black;
+	background: rgba(0,0,0, 0.02) !important;
+}
+
 /* New LOGO */
-#Top_bar.logo{
-	background: #000 !important;
+#Top_bar{
+	background: transparent !important;
 }
 
 img.logo-main.scale-with-grid{
@@ -130,7 +170,7 @@ h1, h2, h3, h4, .text-logo #logo{
 	line-height:1.2em;
 	margin: auto;
 	font-size: 1.0rem;
-	color: #fff;
+	color: #000;
 	text-overflow: clip;
 }
 
