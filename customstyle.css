@@ -6,50 +6,91 @@ body {
 	margin: 0 auto;
 }
 
+h1, h2, h3, h4, .text-logo #logo{
+	font-family: sans-serif;
+	line-height:1.2em;
+	margin: auto;
+	font-size: 1.0rem;
+	color: #000;
+	text-overflow: clip;
+}
+
 /* Remove Extra Padding */
 #Content {
 	padding-top: 0px !important;
 }
 
-#Header_wrapper, .header_placeholder, .container, .column.one {
-	background: #fff !important;
+#Header_wrapper, .header_placeholder, .container {
+	background: #272727 !important;
 }
 
 /* MENU ICON */
 .icon-menu-fine{
-	color: black;
+	color: #eee;
 }
 
 .menu-toggle{
-	color: black;
+	color: #eee;
 }
 
 /* MENU */
 #menu-main-menu li a span{
-	color: black;
+	color: #eee;
 	opacity: 1.0;
 }
 
 #Footer {
-	background: black !important;
+	background: #272727 !important;
 	margin: 0 !important;
 	padding: 0 !important;
 }
 
 #Footer div div {
-	background: black !important;
+	background: #272727 !important;
 	padding: 0 !important;
 }
 
 #Footer div div div.column.one {
-	background: black !important;
+	background: #272727 !important;
 }
 
 
 .menu-main-menu-container, .sub-menu{
 	color: black;
-	background: #fff !important;
+	background: #272727 !important;
 }
+
+
+/* SPECIAL TITLES */
+.special-title div h2 {
+	font-family: sans-serif;
+	line-height:1.2em;
+	margin: auto;
+	font-size: 1.5rem;
+	color: #fff;
+	text-overflow: clip;
+	text-align: left;
+	font-weight: bold;	
+}
+
+.special-title div {
+	border: 0px;
+}
+
+/* TITLE BLOCKS */
+.title-block {
+	background: #272727;
+}
+
+.title-block div.clearfix {
+	background: #272727 !important;
+}
+
+.title-block div h4{
+	color: #fff;
+	text-align: center;
+}
+
 
 /* New LOGO */
 #Top_bar{
@@ -165,14 +206,7 @@ img.logo-main.scale-with-grid{
 }
 */
 
-h1, h2, h3, h4, .text-logo #logo{
-	font-family: sans-serif;
-	line-height:1.2em;
-	margin: auto;
-	font-size: 1.0rem;
-	color: #000;
-	text-overflow: clip;
-}
+
 
 .column_attr.align_left{
 	overflow: hidden;
