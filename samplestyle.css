@@ -3,28 +3,48 @@ body {
 }
 
 .station-wrapper {
-  display: inline-block;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
   background: #dd0c11;
   width: calc(100% * (1 / 2) - 2px - 1px);
   transition: 300ms;
   margin: 2px auto;
-  padding: 0px;
 }
 
 /* HOVER */
 .station-wrapper:hover {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
   background: #eee;
   width: calc(100% * (1 / 2) - 2px - 1px);
   transition: 300ms; 
   margin: 2px auto;
-  padding: 0px;
+}
+
+.spkwrapper{
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 10px;
+}
+
+.spk{
+  height: calc(4vw);
+  margin-right: 20px;
+  vertical-align: center;
 }
 
 .spk path {
   fill: #fff;
-  height: 40px;
   display: inline-block;
   transition: 300ms;
+}
+
+.station-name { 
+  display: inline-block;
+  text-align: center;  
+  vertical-align: center;
 }
 
 .station-wrapper:hover a,
@@ -32,33 +52,22 @@ body {
   text-decoration: none;
   color: #dd0c11;
   fill: #dd0c11;
-  font-size: 22px;
+  font-size: calc(4vw * 0.8);
 }
 
 /* END HOVER */
-
 .station-wrapper a {
   text-decoration: none;
   color: #fff;
-  font-size: 20px;
+  font-size: calc(4vw * 0.6);
   transition: 300ms;
 }
 
 .stcontents {
   font-family: "Lato", sans-serif;
   font-weight: 600;
-  text-align: center;
-  margin: auto 10px;
-  padding: 10px;
-}
-
-.station-name {
-  display: inline-block;
-}
-
-.spk {
-  height: 40px;
-  display: inline-block;
+  margin: 5px 10px;
+  vertical-align: center;
 }
 
 .stations-flex-box {
