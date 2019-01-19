@@ -10,8 +10,8 @@
               "id": "RPNDZRLBATAC639KHZ"
             },
             "twitter": {
-              "name": null,
-              "id": null
+              "name": "",
+              "id": ""
             },
             "youtube": {
               "name": "",
@@ -34,8 +34,8 @@
               "id": "BaguioRpn"
             },
             "youtube": {
-              "name": "",
-              "id": ""
+              "name": "RPN Baguio",
+              "id": "UC0wWamBzg1feSykTkqVEhPg"
             }
           }
         ]
@@ -54,8 +54,8 @@
               "id": "dzkiiriga"
             },
             "youtube": {
-              "name": "",
-              "id": ""
+              "name": "RPN Iriga",
+              "id": "UCYqdBZOEe_jGAEFanu0j1mA"
             }
           }
         ]
@@ -74,8 +74,8 @@
               "id": "BacolodDykb"
             },
             "youtube": {
-              "name": "",
-              "id": ""
+              "name": "RPN Bacolod",
+              "id": "UCRW2tujJbwQwN7fQIVPKkfw"
             }
           }
         ]
@@ -94,8 +94,8 @@
               "id": "DykcCebu"
             },
             "youtube": {
-              "name": "",
-              "id": ""
+              "name": "RPN Cebu",
+              "id": "UCENkWYZZ0M5MRTsAosAH57g"
             }
           }
         ]
@@ -106,16 +106,16 @@
         "accounts": [
           {
             "facebook": {
-              "name": "",
-              "id": ""
+              "name": "RPN DXKO Cagayan De Oro",
+              "id": "RPNCagayanDeOro"
             },
             "twitter": {
-              "name": "",
-              "id": ""
+              "name": "DXKO.Cagayan de Oro",
+              "id": "DXKO_CDO"
             },
             "youtube": {
-              "name": "",
-              "id": ""
+              "name": "RPN Cagayan de Oro",
+              "id": "UCKRRue5YpvvercB3qGgbsMQ"
             }
           }
         ]
@@ -126,16 +126,16 @@
         "accounts": [
           {
             "facebook": {
-              "name": "",
-              "id": ""
+              "name": "RPN DXKT Davao",
+              "id": "dxkt1071khz"
             },
             "twitter": {
-              "name": "",
-              "id": ""
+              "name": "RPN Davao",
+              "id": "DavaoRpn"
             },
             "youtube": {
-              "name": "",
-              "id": ""
+              "name": "RPN Davao",
+              "id": "UC2MchIQ5N6VDgT2053JsZjQ"
             }
           }
         ]
@@ -146,12 +146,12 @@
         "accounts": [
           {
             "facebook": {
-              "name": "",
-              "id": ""
+              "name": "RPN DXKD Dipolog City",
+              "id": "1053khz"
             },
             "twitter": {
-              "name": "",
-              "id": ""
+              "name": "RPN DXKD DIPOLOG",
+              "id": "DxkdRpn"
             },
             "youtube": {
               "name": "",
@@ -166,12 +166,12 @@
         "accounts": [
           {
             "facebook": {
-              "name": "",
-              "id": ""
+              "name": "RPN DXDX Gensan",
+              "id": "RPNDXDXGensan"
             },
             "twitter": {
-              "name": "",
-              "id": ""
+              "name": "DXDXRPNGENSAN",
+              "id": "DxdxRpngensan"
             },
             "youtube": {
               "name": "",
@@ -186,16 +186,16 @@
         "accounts": [
           {
             "facebook": {
-              "name": "",
-              "id": ""
+              "name": "DXKS RPN RADIO Surigao",
+              "id": "RPNSurigao"
             },
             "twitter": {
-              "name": "",
-              "id": ""
+              "name": "dxks.surigao",
+              "id": "RPN_DXKS"
             },
             "youtube": {
-              "name": "",
-              "id": ""
+              "name": "Surigao - RPN Surigao",
+              "id": "UCTEqreysOA6y1AbU4jmxl0A"
             }
           }
         ]
@@ -206,16 +206,16 @@
         "accounts": [
           {
             "facebook": {
-              "name": "",
-              "id": ""
+              "name": "RPN DXXX Zamboanga",
+              "id": "RPNDXXXRadyoRonda"
             },
             "twitter": {
-              "name": "",
+              "name": "dxxx.zamboanga",
               "id": ""
             },
             "youtube": {
-              "name": "",
-              "id": ""
+              "name": "RPN Zamboanga",
+              "id": "UCzcBKBmq4DDUEIW6XvvnzqA"
             }
           }
         ]
