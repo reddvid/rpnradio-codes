@@ -1,0 +1,224 @@
+{
+    "stations": [
+      {
+        "name": "Batac",
+        "callsign": "dzrl",
+        "accounts": [
+          {
+            "facebook": {
+              "name": "RPN 639Khz BATAC",
+              "id": "RPNDZRLBATAC639KHZ"
+            },
+            "twitter": {
+              "name": null,
+              "id": null
+            },
+            "youtube": {
+              "name": "",
+              "id": ""
+            }
+          }
+        ]
+      },
+      {
+        "name": "Baguio",
+        "callsign": "dzbs",
+        "accounts": [
+          {
+            "facebook": {
+              "name": "RPN DZBS 1368 Baguio",
+              "id": "rpndzbs1368baguio"
+            },
+            "twitter": {
+              "name": "RPN Baguio",
+              "id": "BaguioRpn"
+            },
+            "youtube": {
+              "name": "",
+              "id": ""
+            }
+          }
+        ]
+      },
+      {
+        "name": "Iriga",
+        "callsign": "dzki",
+        "accounts": [
+          {
+            "facebook": {
+              "name": "RPN - DZKI / TV10, Iriga City",
+              "id": "RpnDzkiIrigaCity"
+            },
+            "twitter": {
+              "name": "RPN Iriga",
+              "id": "dzkiiriga"
+            },
+            "youtube": {
+              "name": "",
+              "id": ""
+            }
+          }
+        ]
+      },
+      {
+        "name": "Bacolod",
+        "callsign": "dykb",
+        "accounts": [
+          {
+            "facebook": {
+              "name": "RPN DYKB 1404 Khz. Bacolod City",
+              "id": "rpndykb"
+            },
+            "twitter": {
+              "name": "dykb.bacolod",
+              "id": "BacolodDykb"
+            },
+            "youtube": {
+              "name": "",
+              "id": ""
+            }
+          }
+        ]
+      },
+      {
+        "name": "Cebu",
+        "callsign": "dykc",
+        "accounts": [
+          {
+            "facebook": {
+              "name": "DYKC CEBU",
+              "id": "dykc675cebu"
+            },
+            "twitter": {
+              "name": "dykc.cebu",
+              "id": "DykcCebu"
+            },
+            "youtube": {
+              "name": "",
+              "id": ""
+            }
+          }
+        ]
+      },
+      {
+        "name": "Cagayan de Oro",
+        "callsign": "dxko",
+        "accounts": [
+          {
+            "facebook": {
+              "name": "",
+              "id": ""
+            },
+            "twitter": {
+              "name": "",
+              "id": ""
+            },
+            "youtube": {
+              "name": "",
+              "id": ""
+            }
+          }
+        ]
+      },
+      {
+        "name": "Davao",
+        "callsign": "dxkt",
+        "accounts": [
+          {
+            "facebook": {
+              "name": "",
+              "id": ""
+            },
+            "twitter": {
+              "name": "",
+              "id": ""
+            },
+            "youtube": {
+              "name": "",
+              "id": ""
+            }
+          }
+        ]
+      },
+      {
+        "name": "Dipolog",
+        "callsign": "dxkd",
+        "accounts": [
+          {
+            "facebook": {
+              "name": "",
+              "id": ""
+            },
+            "twitter": {
+              "name": "",
+              "id": ""
+            },
+            "youtube": {
+              "name": "",
+              "id": ""
+            }
+          }
+        ]
+      },
+      {
+        "name": "General Santos",
+        "callsign": "dxdx",
+        "accounts": [
+          {
+            "facebook": {
+              "name": "",
+              "id": ""
+            },
+            "twitter": {
+              "name": "",
+              "id": ""
+            },
+            "youtube": {
+              "name": "",
+              "id": ""
+            }
+          }
+        ]
+      },
+      {
+        "name": "Surigao",
+        "callsign": "dxks",
+        "accounts": [
+          {
+            "facebook": {
+              "name": "",
+              "id": ""
+            },
+            "twitter": {
+              "name": "",
+              "id": ""
+            },
+            "youtube": {
+              "name": "",
+              "id": ""
+            }
+          }
+        ]
+      },
+      {
+        "name": "Zamboanga",
+        "callsign": "dxxx",
+        "accounts": [
+          {
+            "facebook": {
+              "name": "",
+              "id": ""
+            },
+            "twitter": {
+              "name": "",
+              "id": ""
+            },
+            "youtube": {
+              "name": "",
+              "id": ""
+            }
+          }
+        ]
+      }
+    ]
+  }
