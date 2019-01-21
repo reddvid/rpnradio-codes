@@ -101,6 +101,26 @@
         ]
       },
       {
+        "name": "Dipolog",
+        "callsign": "dxkd",
+        "accounts": [
+          {
+            "facebook": {
+              "name": "RPN DXKD Dipolog City",
+              "id": "1053khz"
+            },
+            "twitter": {
+              "name": "RPN DXKD DIPOLOG",
+              "id": "DxkdRpn"
+            },
+            "youtube": {
+              "name": "",
+              "id": ""
+            }
+          }
+        ]
+      },
+      {
         "name": "Cagayan de Oro",
         "callsign": "dxko",
         "accounts": [
@@ -136,26 +156,6 @@
             "youtube": {
               "name": "RPN Davao",
               "id": "UC2MchIQ5N6VDgT2053JsZjQ"
-            }
-          }
-        ]
-      },
-      {
-        "name": "Dipolog",
-        "callsign": "dxkd",
-        "accounts": [
-          {
-            "facebook": {
-              "name": "RPN DXKD Dipolog City",
-              "id": "1053khz"
-            },
-            "twitter": {
-              "name": "RPN DXKD DIPOLOG",
-              "id": "DxkdRpn"
-            },
-            "youtube": {
-              "name": "",
-              "id": ""
             }
           }
         ]
