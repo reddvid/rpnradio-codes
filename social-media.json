@@ -5,7 +5,7 @@
         "callsign": "dzrl",
         "accounts": [
           {
-            "facebook": {
+            "facebook": {t
               "name": "RPN 639Khz BATAC",
               "id": "RPNDZRLBATAC639KHZ"
             },
@@ -28,6 +28,7 @@
             "facebook": {
               "name": "RPN DZBS 1368 Baguio",
               "id": "rpndzbs1368baguio"
+                
             },
             "twitter": {
               "name": "RPN Baguio",
@@ -76,6 +77,7 @@
             "youtube": {
               "name": "RPN Bacolod",
               "id": "UCRW2tujJbwQwN7fQIVPKkfw"
+                
             }
           }
         ]
@@ -154,8 +156,8 @@
               "id": "DxkdRpn"
             },
             "youtube": {
-              "name": "",
-              "id": ""
+              "name": "RPN Dipolog",
+              "id": "UC2INL4Tw2OFuwPIldT2u6Fw"
             }
           }
         ]
@@ -211,7 +213,7 @@
             },
             "twitter": {
               "name": "dxxx.zamboanga",
-              "id": ""
+              "id": "DxxxZamboanga"
             },
             "youtube": {
               "name": "RPN Zamboanga",
