@@ -180,6 +180,24 @@
             }
          }
       },
+      {
+      "name": "Pagadian",
+      "callsign": "dxkp",
+          "accounts":{ 
+      "facebook": {
+        "name": "RPN DXKP Pagadian",
+        "id": "RPNPagadian1377"
+      },
+      "twitter": {
+        "name": "DXKP PAGADIAN",
+        "id": "DxkpRpn"
+      },
+      "youtube": {
+        "name": "DXKP PAGADIAN",
+        "id": "UCAo9IsDW-fXKbXvdY1KKc8g"
+      }
+          }
+    },
       { 
          "name":"Zamboanga",
          "callsign":"dxxx",
