@@ -1,196 +1,263 @@
 {
+    "ipaddress": [
+        {
+            "primary": "87.98.130.255",
+            "secondary": "178.32.62.172",
+            "tertiary": ""
+        }
+    ],
     "stations": [
-      {
-        "name": "Batac",
-        "callsign": "dzrl",
-        "facebook": {
-          "name": "RPN 639Khz BATAC",
-          "id": "RPNDZRLBATAC639KHZ"
+        {
+            "name": "Batac",
+            "callsign": "dzrl",
+            "frequency": 639,
+            "stream": {
+                "port": 8956,
+                "ip": "primary"
+            },
+            "facebook": {
+                "name": "RPN 639Khz BATAC",
+                "id": "RPNDZRLBATAC639KHZ"
+            },
+            "twitter": {
+                "name": "rpnbatac",
+                "id": "rpnbatac"
+            },
+            "youtube": {
+                "name": "RPN639KHZDZRL RADYO RONDA",
+                "id": "UCCMkmC2SCEs07M8YLvotFRw"
+            }
         },
-        "twitter": {
-          "name": "rpnbatac",
-          "id": "rpnbatac"
+        {
+            "name": "Baguio",
+            "callsign": "dzbs",
+            "frequency": 1368,
+            "stream": {
+                "port": 8169,
+                "ip": "primary"
+            },
+            "facebook": {
+                "name": "RPN DZBS 1368 Baguio",
+                "id": "rpndzbs1368baguio"
+            },
+            "twitter": {
+                "name": "RPN Baguio",
+                "id": "BaguioRpn"
+            },
+            "youtube": {
+                "name": "RPN Baguio",
+                "id": "UC0wWamBzg1feSykTkqVEhPg"
+            }
         },
-        "youtube": {
-          "name": "RPN639KHZDZRL RADYO RONDA",
-          "id": "UCCMkmC2SCEs07M8YLvotFRw"
+        {
+            "name": "Iriga",
+            "callsign": "dzki",
+            "frequency": 1332,
+            "stream": {
+                "port": 8996,
+                "ip": "primary"
+            },
+            "facebook": {
+                "name": "RPN - DZKI / TV10, Iriga City",
+                "id": "RpnDzkiIrigaCity"
+            },
+            "twitter": {
+                "name": "RPN Iriga",
+                "id": "dzkiiriga"
+            },
+            "youtube": {
+                "name": "RPN Iriga",
+                "id": "UCYqdBZOEe_jGAEFanu0j1mA"
+            }
+        },
+        {
+            "name": "Bacolod",
+            "callsign": "dykb",
+            "frequency": 1404,
+            "stream": {
+                "port": 8251,
+                "ip": "primary"
+            },
+            "facebook": {
+                "name": "RPN DYKB 1404 Khz. Bacolod City",
+                "id": "rpndykb"
+            },
+            "twitter": {
+                "name": "dykb.bacolod",
+                "id": "BacolodDykb"
+            },
+            "youtube": {
+                "name": "RPN Bacolod",
+                "id": "UCRW2tujJbwQwN7fQIVPKkfw"
+            }
+        },
+        {
+            "name": "Cebu",
+            "callsign": "dykc",
+            "frequency": 675,
+            "stream": {
+                "port": 8113,
+                "ip": "secondary"
+            },
+            "facebook": {
+                "name": "DYKC CEBU",
+                "id": "dykc675cebu"
+            },
+            "twitter": {
+                "name": "dykc.cebu",
+                "id": "DykcCebu"
+            },
+            "youtube": {
+                "name": "RPN Cebu",
+                "id": "UCENkWYZZ0M5MRTsAosAH57g"
+            }
+        },
+        {
+            "name": "Cagayan de Oro",
+            "callsign": "dxko",
+            "frequency": 1368,
+            "stream": {
+                "port": 8960,
+                "ip": "primary"
+            },
+            "facebook": {
+                "name": "RPN DXKO Cagayan De Oro",
+                "id": "RPNCagayanDeOro"
+            },
+            "twitter": {
+                "name": "DXKO.Cagayan de Oro",
+                "id": "DXKO_CDO"
+            },
+            "youtube": {
+                "name": "RPN Cagayan de Oro",
+                "id": "UCKRRue5YpvvercB3qGgbsMQ"
+            }
+        },
+        {
+            "name": "Davao",
+            "callsign": "dxkt",
+            "frequency": 1071,
+            "stream": {
+                "port": 9056,
+                "ip": "primary"
+            },
+            "facebook": {
+                "name": "RPN DXKT Davao",
+                "id": "dxkt1071khz"
+            },
+            "twitter": {
+                "name": "RPN Davao",
+                "id": "DavaoRpn"
+            },
+            "youtube": {
+                "name": "RPN Davao",
+                "id": "UC2MchIQ5N6VDgT2053JsZjQ"
+            }
+        },
+        {
+            "name": "Dipolog",
+            "callsign": "dxkd",
+            "frequency": 1053,
+            "stream": {
+                "port": 8481,
+                "ip": "primary"
+            },
+            "facebook": {
+                "name": "RPN DXKD Dipolog City",
+                "id": "1053khz"
+            },
+            "twitter": {
+                "name": "RPN DXKD DIPOLOG",
+                "id": "RpnDxkd"
+            },
+            "youtube": {
+                "name": "RPN Dipolog",
+                "id": "UC2INL4Tw2OFuwPIldT2u6Fw"
+            }
+        },
+        {
+            "name": "General Santos",
+            "callsign": "dxdx",
+            "frequency": 693,
+            "stream": {
+                "port": 8952,
+                "ip": "primary"
+            },
+            "facebook": {
+                "name": "RPN DXDX Gensan",
+                "id": "RadyoRonda693"
+            },
+            "twitter": {
+                "name": "DXDXRPNGENSAN",
+                "id": "DxdxRpngensan"
+            },
+            "youtube": {
+                "name": "RPNDXDX GENSAN",
+                "id": "UCx5QRPDA-LYQV2jepQBr3qw"
+            }
+        },
+        {
+            "name": "Surigao",
+            "callsign": "dxks",
+            "frequency": 1080,
+            "stream": {
+                "port": 8448,
+                "ip": "primary"
+            },
+            "facebook": {
+                "name": "DXKS RPN RADIO Surigao",
+                "id": "RPNSurigao"
+            },
+            "twitter": {
+                "name": "dxks.surigao",
+                "id": "RPN_DXKS"
+            },
+            "youtube": {
+                "name": "Surigao - RPN Surigao",
+                "id": "UCTEqreysOA6y1AbU4jmxl0A"
+            }
+        },
+        {
+            "name": "Pagadian",
+            "callsign": "dxkp",
+            "frequency": 1377,
+            "stream": {
+                "port": 8385,
+                "ip": "secondary"
+            },
+            "facebook": {
+                "name": "RPN DXKP Pagadian",
+                "id": "rpnpagadian1377"
+            },
+            "twitter": {
+                "name": "DXKP PAGADIAN",
+                "id": "DxkpRpn"
+            },
+            "youtube": {
+                "name": "DXKP PAGADIAN",
+                "id": "UCAo9IsDW-fXKbXvdY1KKc8g"
+            }
+        },
+        {
+            "name": "Zamboanga",
+            "callsign": "dxxx",
+            "frequency": 1008,
+            "stream": {
+                "port": 8452,
+                "ip": "primary"
+            },
+            "facebook": {
+                "name": "RPN DXXX Zamboanga",
+                "id": "RPNDXXXRadyoRonda"
+            },
+            "twitter": {
+                "name": "dxxx.zamboanga",
+                "id": "DxxxZamboanga"
+            },
+            "youtube": {
+                "name": "RPN Zamboanga",
+                "id": "UCzcBKBmq4DDUEIW6XvvnzqA"
+            }
         }
-      },
-      {
-        "name": "Baguio",
-        "callsign": "dzbs",
-        "facebook": {
-          "name": "RPN DZBS 1368 Baguio",
-          "id": "rpndzbs1368baguio"
-        },
-        "twitter": {
-          "name": "RPN Baguio",
-          "id": "BaguioRpn"
-        },
-        "youtube": {
-          "name": "RPN Baguio",
-          "id": "UC0wWamBzg1feSykTkqVEhPg"
-        }
-      },
-      {
-        "name": "Iriga",
-        "callsign": "dzki",
-        "facebook": {
-          "name": "RPN - DZKI / TV10, Iriga City",
-          "id": "RpnDzkiIrigaCity"
-        },
-        "twitter": {
-          "name": "RPN Iriga",
-          "id": "dzkiiriga"
-        },
-        "youtube": {
-          "name": "RPN Iriga",
-          "id": "UCYqdBZOEe_jGAEFanu0j1mA"
-        }
-      },
-      {
-        "name": "Bacolod",
-        "callsign": "dykb",
-        "facebook": {
-          "name": "RPN DYKB 1404 Khz. Bacolod City",
-          "id": "rpndykb"
-        },
-        "twitter": {
-          "name": "dykb.bacolod",
-          "id": "BacolodDykb"
-        },
-        "youtube": {
-          "name": "RPN Bacolod",
-          "id": "UCRW2tujJbwQwN7fQIVPKkfw"
-        }
-      },
-      {
-        "name": "Cebu",
-        "callsign": "dykc",
-        "facebook": {
-          "name": "DYKC CEBU",
-          "id": "dykc675cebu"
-        },
-        "twitter": {
-          "name": "dykc.cebu",
-          "id": "DykcCebu"
-        },
-        "youtube": {
-          "name": "RPN Cebu",
-          "id": "UCENkWYZZ0M5MRTsAosAH57g"
-        }
-      },
-      {
-        "name": "Cagayan de Oro",
-        "callsign": "dxko",
-        "facebook": {
-          "name": "RPN DXKO Cagayan De Oro",
-          "id": "RPNCagayanDeOro"
-        },
-        "twitter": {
-          "name": "DXKO.Cagayan de Oro",
-          "id": "DXKO_CDO"
-        },
-        "youtube": {
-          "name": "RPN Cagayan de Oro",
-          "id": "UCKRRue5YpvvercB3qGgbsMQ"
-        }
-      },
-      {
-        "name": "Davao",
-        "callsign": "dxkt",
-        "facebook": {
-          "name": "RPN DXKT Davao",
-          "id": "dxkt1071khz"
-        },
-        "twitter": {
-          "name": "RPN Davao",
-          "id": "DavaoRpn"
-        },
-        "youtube": {
-          "name": "RPN Davao",
-          "id": "UC2MchIQ5N6VDgT2053JsZjQ"
-        }
-      },
-      {
-        "name": "Dipolog",
-        "callsign": "dxkd",
-        "facebook": {
-          "name": "RPN DXKD Dipolog City",
-          "id": "1053khz"
-        },
-        "twitter": {
-          "name": "RPN DXKD DIPOLOG",
-          "id": "RpnDxkd"
-        },
-        "youtube": {
-          "name": "RPN Dipolog",
-          "id": "UC2INL4Tw2OFuwPIldT2u6Fw"
-        }
-      },
-      {
-        "name": "General Santos",
-        "callsign": "dxdx",
-        "facebook": {
-          "name": "RPN DXDX Gensan",
-          "id": "RadyoRonda693"
-        },
-        "twitter": {
-          "name": "DXDXRPNGENSAN",
-          "id": "DxdxRpngensan"
-        },
-        "youtube": {
-          "name": "RPNDXDX GENSAN",
-          "id": "UCx5QRPDA-LYQV2jepQBr3qw"
-        }
-      },
-      {
-        "name": "Surigao",
-        "callsign": "dxks",
-        "facebook": {
-          "name": "DXKS RPN RADIO Surigao",
-          "id": "RPNSurigao"
-        },
-        "twitter": {
-          "name": "dxks.surigao",
-          "id": "RPN_DXKS"
-        },
-        "youtube": {
-          "name": "Surigao - RPN Surigao",
-          "id": "UCTEqreysOA6y1AbU4jmxl0A"
-        }
-      },
-      {
-        "name": "Pagadian",
-        "callsign": "dxkp",
-        "facebook": {
-          "name": "RPN DXKP Pagadian",
-          "id": "rpnpagadian1377"
-        },
-        "twitter": {
-          "name": "DXKP PAGADIAN",
-          "id": "DxkpRpn"
-        },
-        "youtube": {
-          "name": "DXKP PAGADIAN",
-          "id": "UCAo9IsDW-fXKbXvdY1KKc8g"
-        }
-      },
-      {
-        "name": "Zamboanga",
-        "callsign": "dxxx",
-        "facebook": {
-          "name": "RPN DXXX Zamboanga",
-          "id": "RPNDXXXRadyoRonda"
-        },
-        "twitter": {
-          "name": "dxxx.zamboanga",
-          "id": "DxxxZamboanga"
-        },
-        "youtube": {
-          "name": "RPN Zamboanga",
-          "id": "UCzcBKBmq4DDUEIW6XvvnzqA"
-        }
-      }
     ]
-  }
+}
