@@ -6,7 +6,7 @@
          "accounts":{ 
             "facebook":{ 
                "name":"RPN 639Khz BATAC",
-               "id":"RPNDZRLBATAC639KHZ"
+               "id":"RPNBatac639"
             },
             "twitter":{ 
                "name":"rpnbatac",
@@ -24,7 +24,7 @@
          "accounts":{ 
             "facebook":{ 
                "name":"RPN DZBS 1368 Baguio",
-               "id":"rpndzbs1368baguio"
+               "id":"RPNBaguio1368"
             },
             "twitter":{ 
                "name":"RPN Baguio",
@@ -42,7 +42,7 @@
          "accounts":{ 
             "facebook":{ 
                "name":"RPN - DZKI / TV10, Iriga City",
-               "id":"RpnDzkiIrigaCity"
+               "id":"RPNIriga1332"
             },
             "twitter":{ 
                "name":"RPN Iriga",
@@ -60,7 +60,7 @@
          "accounts":{ 
             "facebook":{ 
                "name":"RPN DYKB 1404 Khz. Bacolod City",
-               "id":"rpndykb"
+               "id":"RPNBacolod1404"
             },
             "twitter":{ 
                "name":"dykb.bacolod",
@@ -78,7 +78,7 @@
          "accounts":{ 
             "facebook":{ 
                "name":"DYKC CEBU",
-               "id":"dykc675cebu"
+               "id":"RPNCebu675"
             },
             "twitter":{ 
                "name":"dykc.cebu",
@@ -114,7 +114,7 @@
          "accounts":{ 
             "facebook":{ 
                "name":"RPN DXKT Davao",
-               "id":"dxkt1071khz"
+               "id":"RPNDavao1071"
             },
             "twitter":{ 
                "name":"RPN Davao",
@@ -132,7 +132,7 @@
          "accounts":{ 
             "facebook":{ 
                "name":"RPN DXKD Dipolog City",
-               "id":"1053khz"
+               "id":"RPNDipolog1053"
             },
             "twitter":{ 
                "name":"RPN DXKD DIPOLOG",
@@ -150,7 +150,7 @@
          "accounts":{ 
             "facebook":{ 
                "name":"RPN DXDX Gensan",
-               "id":"RadyoRonda693"
+               "id":"RPNGensan693"
             },
             "twitter":{ 
                "name":"Rpn GenSan",
@@ -168,7 +168,7 @@
          "accounts":{ 
             "facebook":{ 
                "name":"DXKS RPN RADIO Surigao",
-               "id":"RPNSurigao"
+               "id":"RPNSurigao1080"
             },
             "twitter":{ 
                "name":"dxks.surigao",
@@ -186,7 +186,7 @@
           "accounts":{ 
       "facebook": {
         "name": "RPN DXKP Pagadian",
-        "id": "rpnpagadian1377"
+        "id": "RPNPagadian1377"
       },
       "twitter": {
         "name": "DXKP PAGADIAN",
@@ -204,7 +204,7 @@
          "accounts":{ 
             "facebook":{ 
                "name":"RPN DXXX Zamboanga",
-               "id":"RPNDXXXRadyoRonda"
+               "id":"RPNZamboanga1008"
             },
             "twitter":{ 
                "name":"RPNDXXXZAMBOANGA",
