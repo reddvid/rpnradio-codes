@@ -9,7 +9,7 @@
                "id":"RPNBatac639"
             },
             "twitter":{ 
-               "name":"rpnbatac",
+               "name":"RPN DZRL Batac",
                "id":"RPNBatac639"
             },
             "youtube":{ 
@@ -41,15 +41,15 @@
          "callsign":"dzki",
          "accounts":{ 
             "facebook":{ 
-               "name":"RPN - DZKI / TV10, Iriga City",
+               "name":"RPN DZKI Iriga",
                "id":"RPNIriga1332"
             },
             "twitter":{ 
-               "name":"RPN Iriga",
-               "id":"dzkiiriga"
+               "name":"RPN DZKI Iriga",
+               "id":"RPNIriga1332"
             },
             "youtube":{ 
-               "name":"RPN Iriga",
+               "name":"RPN DZKI Iriga",
                "id":"UCYqdBZOEe_jGAEFanu0j1mA"
             }
          }
@@ -59,15 +59,15 @@
          "callsign":"dykb",
          "accounts":{ 
             "facebook":{ 
-               "name":"RPN DYKB 1404 Khz. Bacolod City",
+               "name":"RPN DYKB Bacolod",
                "id":"RPNBacolod1404"
             },
             "twitter":{ 
-               "name":"dykb.bacolod",
-               "id":"BacolodDykb"
+               "name":"RPN DYKB Bacolod",
+               "id":"RPNBacolod1404"
             },
             "youtube":{ 
-               "name":"RPN Bacolod",
+               "name":"RPN DYKB Bacolod",
                "id":"UCRW2tujJbwQwN7fQIVPKkfw"
             }
          }
@@ -77,15 +77,15 @@
          "callsign":"dykc",
          "accounts":{ 
             "facebook":{ 
-               "name":"DYKC CEBU",
+               "name":"RPN DYKC Cebu",
                "id":"RPNCebu675"
             },
             "twitter":{ 
-               "name":"dykc.cebu",
-               "id":"DykcCebu"
+               "name":"RPN DYKC Cebu",
+               "id":"RPNCebu675"
             },
             "youtube":{ 
-               "name":"RPN CEBU",
+               "name":"RPN DYKC CEBU",
                "id":"UCENkWYZZ0M5MRTsAosAH57g"
             }
          }
@@ -96,14 +96,14 @@
          "accounts":{ 
             "facebook":{ 
                "name":"RPN DXKO Cagayan De Oro",
-               "id":"RPNCagayanDeOro1368"
+               "id":"RPNCagayandeOro1368"
             },
             "twitter":{ 
                "name":"DXKO.Cagayan de Oro",
-               "id":"DXKO_CDO"
+               "id":"RPNCdO1368"
             },
             "youtube":{ 
-               "name":"RPN Cagayan de Oro",
+               "name":"RPN DXKO Cagayan de Oro",
                "id": "UCqnkPQY8bUOQstM3BleYDxQ"
             }
          }
@@ -117,11 +117,11 @@
                "id":"RPNDavao1071"
             },
             "twitter":{ 
-               "name":"RPN Davao",
-               "id":"DavaoRpn"
+               "name":"RPN DXKT Davao",
+               "id":"RPNDavao1071"
             },
             "youtube":{ 
-               "name":"RPN Davao",
+               "name":"RPN DXKT Davao",
                "id":"UC2MchIQ5N6VDgT2053JsZjQ"
             }
          }
@@ -131,15 +131,15 @@
          "callsign":"dxkd",
          "accounts":{ 
             "facebook":{ 
-               "name":"RPN DXKD Dipolog City",
+               "name":"RPN DXKD Dipolog",
                "id":"RPNDipolog1053"
             },
             "twitter":{ 
-               "name":"RPN DXKD DIPOLOG",
-               "id":"RpnDxkd"
+               "name":"RPN DXKD Dipolog",
+               "id":"RPNDipolog1053"
             },
             "youtube":{ 
-               "name":"RPN Dipolog",
+               "name":"RPN DXKD Dipolog",
                "id":"UC2INL4Tw2OFuwPIldT2u6Fw"
             }
          }
@@ -149,15 +149,15 @@
          "callsign":"dxdx",
          "accounts":{ 
             "facebook":{ 
-               "name":"RPN DXDX Gensan",
+               "name":"RPN DXDX General Santos",
                "id":"RPNGensan693"
             },
             "twitter":{ 
-               "name":"Rpn GenSan",
-               "id":"GensanRpn"
+               "name":"RPN DXDX General Santos",
+               "id":"RPNGensan693"
             },
             "youtube":{ 
-               "name":"RPN GenSan",
+               "name":"RPN DXDX General Santos",
                "id":"UCpnk3O8NX68x5oRoDcebo5A"
             }
          }
@@ -167,15 +167,15 @@
          "callsign":"dxks",
          "accounts":{ 
             "facebook":{ 
-               "name":"DXKS RPN RADIO Surigao",
+               "name":"RPN DXKS Surigao",
                "id":"RPNSurigao1080"
             },
             "twitter":{ 
-               "name":"dxks.surigao",
-               "id":"RPN_DXKS"
+               "name":"RPN DXKS Surigao",
+               "id":"RPNSurigao1080"
             },
             "youtube":{ 
-               "name":"Surigao - RPN Surigao",
+               "name":"RPN DXKS Surigao",
                "id":"UCTEqreysOA6y1AbU4jmxl0A"
             }
          }
@@ -189,11 +189,11 @@
         "id": "RPNPagadian1377"
       },
       "twitter": {
-        "name": "DXKP PAGADIAN",
-        "id": "DxkpRpn"
+        "name": "RPN DXKP Pagadian",
+        "id": "RPNPagadian1377"
       },
       "youtube": {
-        "name": "DXKP PAGADIAN",
+        "name": "RPN DXKP Pagadian",
         "id": "UCAo9IsDW-fXKbXvdY1KKc8g"
       }
           }
@@ -207,11 +207,11 @@
                "id":"RPNZamboanga1008"
             },
             "twitter":{ 
-               "name":"RPNDXXXZAMBOANGA",
-               "id":"RPNDXXXZAMBOAN1"
+               "name":"RPN DXXX Zamboanga",
+               "id":"RPNZambo1008"
             },
             "youtube":{ 
-               "name":"RPN Zamboanga",
+               "name":"RPN DXXX Zamboanga",
                "id":"UCzcBKBmq4DDUEIW6XvvnzqA"
             }
          }
