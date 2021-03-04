@@ -5,15 +5,15 @@
          "callsign":"dzrl",
          "accounts":{ 
             "facebook":{ 
-               "name":"RPN 639Khz BATAC",
+               "name":"RPN DZRL Batac",
                "id":"RPNBatac639"
             },
             "twitter":{ 
                "name":"rpnbatac",
-               "id":"rpnbatac"
+               "id":"RPNBatac639"
             },
             "youtube":{ 
-               "name":"RPN639KHZDZRL RADYO RONDA",
+               "name":"RPN DZRL Batac",
                "id":"UCCMkmC2SCEs07M8YLvotFRw"
             }
          }
@@ -23,15 +23,15 @@
          "callsign":"dzbs",
          "accounts":{ 
             "facebook":{ 
-               "name":"RPN DZBS 1368 Baguio",
+               "name":"RPN DZBS Baguio",
                "id":"RPNBaguio1368"
             },
             "twitter":{ 
-               "name":"RPN Baguio",
-               "id":"BaguioRpn"
+               "name":"RPN DZBS Baguio",
+               "id":"RPNBaguio1368"
             },
             "youtube":{ 
-               "name":"RPN Baguio",
+               "name":"RPN DZBS Baguio",
                "id":"UC0wWamBzg1feSykTkqVEhPg"
             }
          }
