@@ -1,196 +1,197 @@
 {
-   "stations": [
-      {
-         "name": "Batac",
-         "callsign": "dzrl",
-         "facebook": {
-            "name": "RPN DZRL Batac",
-            "id": "RPNBatac639"
-         },
-         "twitter": {
-            "name": "RPN DZRL Batac",
-            "id": "RPNBatac639"
-         },
-         "youtube": {
-            "name": "RPN DZRL Batac",
-            "id": "UCCMkmC2SCEs07M8YLvotFRw"
-         }
+  "stations": [
+    {
+      "name": "Batac",
+      "callsign": "dzrl",
+      "facebook": {
+        "name": "RPN DZRL Batac",
+        "id": "RPNBatac639"
       },
-      {
-         "name": "Baguio",
-         "callsign": "dzbs",
-         "facebook": {
-            "name": "RPN DZBS Baguio",
-            "id": "RPNBaguio1368"
-         },
-         "twitter": {
-            "name": "RPN DZBS Baguio",
-            "id": "RPNBaguio1368"
-         },
-         "youtube": {
-            "name": "RPN DZBS Baguio",
-            "id": "UC0wWamBzg1feSykTkqVEhPg"
-         }
+      "twitter": {
+        "name": "RPN DZRL Batac",
+        "id": "RPNBatac639"
       },
-      {
-         "name": "Iriga",
-         "callsign": "dzki",
-         "facebook": {
-            "name": "RPN DZKI Iriga",
-            "id": "RPNIriga1332"
-         },
-         "twitter": {
-            "name": "RPN DZKI Iriga",
-            "id": "RPNIriga1332"
-         },
-         "youtube": {
-            "name": "RPN DZKI Iriga",
-            "id": "UCYqdBZOEe_jGAEFanu0j1mA"
-         }
-      },
-      {
-         "name": "Bacolod",
-         "callsign": "dykb",
-         "facebook": {
-            "name": "RPN DYKB Bacolod",
-            "id": "RPNBacolod1404"
-         },
-         "twitter": {
-            "name": "RPN DYKB Bacolod",
-            "id": "RPNBacolod1404"
-         },
-         "youtube": {
-            "name": "RPN DYKB Bacolod",
-            "id": "UCRW2tujJbwQwN7fQIVPKkfw"
-         }
-      },
-      {
-         "name": "Cebu",
-         "callsign": "dykc",
-         "facebook": {
-            "name": "RPN DYKC Cebu",
-            "id": "RPNCebu675"
-         },
-         "twitter": {
-            "name": "RPN DYKC Cebu",
-            "id": "RPNCebu675"
-         },
-         "youtube": {
-            "name": "RPN DYKC CEBU",
-            "id": "UCENkWYZZ0M5MRTsAosAH57g"
-         }
-      },
-      {
-         "name": "Cagayan de Oro",
-         "callsign": "dxko",
-         "facebook": {
-            "name": "RPN DXKO Cagayan De Oro",
-            "id": "RPNCagayandeOro1368"
-         },
-         "twitter": {
-            "name": "DXKO.Cagayan de Oro",
-            "id": "RPNCdO1368"
-         },
-         "youtube": {
-            "name": "RPN DXKO Cagayan de Oro",
-            "id": "UCqnkPQY8bUOQstM3BleYDxQ"
-         }
-      },
-      {
-         "name": "Davao",
-         "callsign": "dxkt",
-         "facebook": {
-            "name": "RPN DXKT Davao",
-            "id": "RPNDavao1071"
-         },
-         "twitter": {
-            "name": "RPN DXKT Davao",
-            "id": "RPNDavao1071"
-         },
-         "youtube": {
-            "name": "RPN DXKT Davao",
-            "id": "UC2MchIQ5N6VDgT2053JsZjQ"
-         }
-      },
-      {
-         "name": "Dipolog",
-         "callsign": "dxkd",
-         "facebook": {
-            "name": "RPN DXKD Dipolog",
-            "id": "RPNDipolog1053"
-         },
-         "twitter": {
-            "name": "RPN DXKD Dipolog",
-            "id": "RPNDipolog1053"
-         },
-         "youtube": {
-            "name": "RPN DXKD Dipolog",
-            "id": "UC2INL4Tw2OFuwPIldT2u6Fw"
-         }
-      },
-      {
-         "name": "General Santos",
-         "callsign": "dxdx",
-         "facebook": {
-            "name": "RPN DXDX General Santos",
-            "id": "RPNGensan693"
-         },
-         "twitter": {
-            "name": "RPN DXDX General Santos",
-            "id": "RPNGensan693"
-         },
-         "youtube": {
-            "name": "RPN DXDX General Santos",
-            "id": "UCpnk3O8NX68x5oRoDcebo5A"
-         }
-      },
-      {
-         "name": "Surigao",
-         "callsign": "dxks",
-         "facebook": {
-            "name": "RPN DXKS Surigao",
-            "id": "RPNSurigao1080"
-         },
-         "twitter": {
-            "name": "RPN DXKS Surigao",
-            "id": "RPNSurigao1080"
-         },
-         "youtube": {
-            "name": "RPN DXKS Surigao",
-            "id": "UCTEqreysOA6y1AbU4jmxl0A"
-         }
-      },
-      {
-         "name": "Pagadian",
-         "callsign": "dxkp",
-         "facebook": {
-            "name": "RPN DXKP Pagadian",
-            "id": "RPNPagadian1377"
-         },
-         "twitter": {
-            "name": "RPN DXKP Pagadian",
-            "id": "RPNPagadian1377"
-         },
-         "youtube": {
-            "name": "RPN DXKP Pagadian",
-            "id": "UCAo9IsDW-fXKbXvdY1KKc8g"
-         }
-      },
-      {
-         "name": "Zamboanga",
-         "callsign": "dxxx",
-         "facebook": {
-            "name": "RPN DXXX Zamboanga",
-            "id": "RPNZamboanga1008"
-         },
-         "twitter": {
-            "name": "RPN DXXX Zamboanga",
-            "id": "RPNZambo1008"
-         },
-         "youtube": {
-            "name": "RPN DXXX Zamboanga",
-            "id": "UCzcBKBmq4DDUEIW6XvvnzqA"
-         }
+      "youtube": {
+        "name": "RPN DZRL Batac",
+        "id": "UCCMkmC2SCEs07M8YLvotFRw"
       }
-   ]
+    },
+    {
+      "name": "Iriga",
+      "callsign": "dzki",
+      "facebook": {
+        "name": "RPN DZKI Iriga",
+        "id": "RPNIriga1332"
+      },
+      "twitter": {
+        "name": "RPN DZKI Iriga",
+        "id": "RPNIriga1332"
+      },
+      "youtube": {
+        "name": "RPN DZKI Iriga",
+        "id": "UCYqdBZOEe_jGAEFanu0j1mA"
+      }
+    },
+    {
+      "name": "Baguio",
+      "callsign": "dzbs",
+      "facebook": {
+        "name": "RPN DZBS Baguio",
+        "id": "RPNBaguio1368"
+      },
+      "twitter": {
+        "name": "RPN DZBS Baguio",
+        "id": "RPNBaguio1368"
+      },
+      "youtube": {
+        "name": "RPN DZBS Baguio",
+        "id": "UC0wWamBzg1feSykTkqVEhPg"
+      }
+    },
+    {
+      "name": "Cebu",
+      "callsign": "dykc",
+      "facebook": {
+        "name": "RPN DYKC Cebu",
+        "id": "RPNCebu675"
+      },
+      "twitter": {
+        "name": "RPN DYKC Cebu",
+        "id": "RPNCebu675"
+      },
+      "youtube": {
+        "name": "RPN DYKC CEBU",
+        "id": "UCENkWYZZ0M5MRTsAosAH57g"
+      }
+    },
+    {
+      "name": "Bacolod",
+      "callsign": "dykb",
+      "facebook": {
+        "name": "RPN DYKB Bacolod",
+        "id": "RPNBacolod1404"
+      },
+      "twitter": {
+        "name": "RPN DYKB Bacolod",
+        "id": "RPNBacolod1404"
+      },
+      "youtube": {
+        "name": "RPN DYKB Bacolod",
+        "id": "UCRW2tujJbwQwN7fQIVPKkfw"
+      }
+    },
+    {
+      "name": "Zamboanga",
+      "callsign": "dxxx",
+      "facebook": {
+        "name": "RPN DXXX Zamboanga",
+        "id": "RPNZamboanga1008"
+      },
+      "twitter": {
+        "name": "RPN DXXX Zamboanga",
+        "id": "RPNZambo1008"
+      },
+      "youtube": {
+        "name": "RPN DXXX Zamboanga",
+        "id": "UCzcBKBmq4DDUEIW6XvvnzqA"
+      }
+    },
+    {
+      "name": "Davao",
+      "callsign": "dxkt",
+      "facebook": {
+        "name": "RPN DXKT Davao",
+        "id": "RPNDavao1071"
+      },
+      "twitter": {
+        "name": "RPN DXKT Davao",
+        "id": "RPNDavao1071"
+      },
+      "youtube": {
+        "name": "RPN DXKT Davao",
+        "id": "UC2MchIQ5N6VDgT2053JsZjQ"
+      }
+    },
+    {
+      "name": "Surigao",
+      "callsign": "dxks",
+      "facebook": {
+        "name": "RPN DXKS Surigao",
+        "id": "RPNSurigao1080"
+      },
+      "twitter": {
+        "name": "RPN DXKS Surigao",
+        "id": "RPNSurigao1080"
+      },
+      "youtube": {
+        "name": "RPN DXKS Surigao",
+        "id": "UCTEqreysOA6y1AbU4jmxl0A"
+      }
+    },
+    {
+      "name": "Pagadian",
+      "callsign": "dxkp",
+      "facebook": {
+        "name": "RPN DXKP Pagadian",
+        "id": "RPNPagadian1377"
+      },
+      "twitter": {
+        "name": "RPN DXKP Pagadian",
+        "id": "RPNPagadian1377"
+      },
+      "youtube": {
+        "name": "RPN DXKP Pagadian",
+        "id": "UCAo9IsDW-fXKbXvdY1KKc8g"
+      }
+    },
+    {
+      "name": "Cagayan de Oro",
+      "callsign": "dxko",
+      "facebook": {
+        "name": "RPN DXKO Cagayan De Oro",
+        "id": "RPNCagayandeOro1368"
+      },
+      "twitter": {
+        "name": "DXKO.Cagayan de Oro",
+        "id": "RPNCdO1368"
+      },
+      "youtube": {
+        "name": "RPN DXKO Cagayan de Oro",
+        "id": "UCqnkPQY8bUOQstM3BleYDxQ"
+      }
+    },
+
+    {
+      "name": "Dipolog",
+      "callsign": "dxkd",
+      "facebook": {
+        "name": "RPN DXKD Dipolog",
+        "id": "RPNDipolog1053"
+      },
+      "twitter": {
+        "name": "RPN DXKD Dipolog",
+        "id": "RPNDipolog1053"
+      },
+      "youtube": {
+        "name": "RPN DXKD Dipolog",
+        "id": "UC2INL4Tw2OFuwPIldT2u6Fw"
+      }
+    },
+    {
+      "name": "General Santos",
+      "callsign": "dxdx",
+      "facebook": {
+        "name": "RPN DXDX General Santos",
+        "id": "RPNGensan693"
+      },
+      "twitter": {
+        "name": "RPN DXDX General Santos",
+        "id": "RPNGensan693"
+      },
+      "youtube": {
+        "name": "RPN DXDX General Santos",
+        "id": "UCpnk3O8NX68x5oRoDcebo5A"
+      }
+    }
+  ]
 }
