@@ -4,44 +4,24 @@
       "name": "Semana Novela - Manong William",
       "episodes": [
         {
-          "title": "Episode 1 Part 1",
-          "url": "semana-novela/manong-william/sn-mw-1.01.mp3"
+          "title": "Episode 1",
+          "url": "semana-novela/manong-william/sn-mw-ep01.mp3"
         },
         {
-          "title": "Episode 1 Part 2",
-          "url": "semana-novela/manong-william/sn-mw-1.02.mp3"
+          "title": "Episode 2",
+          "url": "semana-novela/manong-william/sn-mw-ep02.mp3"
         },
         {
-          "title": "Episode 2 Part 1",
-          "url": "semana-novela/manong-william/sn-mw-2.01.mp3"
+          "title": "Episode 3",
+          "url": "semana-novela/manong-william/sn-mw-ep03.mp3"
         },
         {
-          "title": "Episode 2 Part 2",
-          "url": "semana-novela/manong-william/sn-mw-2.02.mp3"
+          "title": "Episode 4",
+          "url": "semana-novela/manong-william/sn-mw-ep04.mp3"
         },
         {
-          "title": "Episode 3 Part 1",
-          "url": "semana-novela/manong-william/sn-mw-3.01.mp3"
-        },
-        {
-          "title": "Episode 3 Part 2",
-          "url": "semana-novela/manong-william/sn-mw-3.02.mp3"
-        },
-        {
-          "title": "Episode 4 Part 1",
-          "url": "semana-novela/manong-william/sn-mw-4.01.mp3"
-        },
-        {
-          "title": "Episode 4 Part 2",
-          "url": "semana-novela/manong-william/sn-mw-4.02.mp3"
-        },
-        {
-          "title": "Episode 5 Part 1",
-          "url": "semana-novela/manong-william/sn-mw-5.01.mp3"
-        },
-        {
-          "title": "Episode 5 Part 2",
-          "url": "semana-novela/manong-william/sn-mw-5.02.mp3"
+          "title": "Episode 5",
+          "url": "semana-novela/manong-william/sn-mw-ep05.mp3"
         }
       ]
     }
