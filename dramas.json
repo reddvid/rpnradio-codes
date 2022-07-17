@@ -1,11 +1,13 @@
-[
-  {
-    "name": "Manong William",
-    "episodes": [
-      {
-        "title": "Episode 1 Part 1",
-        "url": "sn-mn-1.01.mp3"
-      }
-    ]
-  }
-]
+{
+  "dramas": [
+    {
+      "name": "Semana Novela - Manong William",
+      "episodes": [
+        {
+          "title": "Episode 1 Part 1",
+          "url": "sn-mn-1.01.mp3"
+        }
+      ]
+    }
+  ]
+}
