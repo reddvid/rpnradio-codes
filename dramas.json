@@ -24,6 +24,31 @@
           "url": "semana-novela/manong-william/sn-mw-ep05.mp3"
         }
       ]
+    },
+    {
+      "name": "Atabay",
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "url": "atabay/atabay-ep01.mp3"
+        },
+        {
+          "title": "Episode 2",
+          "url": "atabay/atabay-ep02.mp3"
+        },
+        {
+          "title": "Episode 3",
+          "url": "atabay/atabay-ep03.mp3"
+        },
+        {
+          "title": "Episode 4",
+          "url": "atabay/atabay-ep04.mp3"
+        },
+        {
+          "title": "Episode 5",
+          "url": "atabay/atabay-ep05.mp3"
+        }
+      ]
     }
   ]
 }
