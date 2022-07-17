@@ -1,0 +1,52 @@
+:root {
+  --card-background-color: #efefef;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-size: 13.4px;
+}
+
+body {
+  background: whitesmoke;
+  color: #333;
+  font-family: Verdana, BlinkMacSystemFont, -apple-system, segoe ui, Roboto,
+    Oxygen, Ubuntu, Cantarell, open sans, helvetica neue, sans-serif;
+}
+h1 {
+  font-size: 1.6rem;
+}
+h2 {
+  font-size: 1.4rem;
+}
+
+section.top {
+  margin: 20px;
+}
+
+#stations {
+  margin: 20px;
+}
+
+#stations-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+section {
+  padding: 20px 20px 40px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-left: 4px solid rgba(220, 20, 60);
+  border-radius: 4px;
+}
+
+section h3 {
+  font-size: 1.1rem;
+}
+
+section p {
+  line-height: 1.5rem;
+}
