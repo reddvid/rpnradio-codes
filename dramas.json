@@ -49,6 +49,23 @@
           "url": "atabay/atabay-ep05.mp3"
         }
       ]
+    },
+    {
+      "name": "Inday",
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "url": "inday/inday-ep01.mp3"
+        },
+        {
+          "title": "Episode 2",
+          "url": "inday/inday-ep02.mp3"
+        },
+        {
+          "title": "Episode 3",
+          "url": "inday/inday-ep03.mp3"
+        }
+      ]
     }
   ]
 }
