@@ -1,7 +1,7 @@
 {
   "dramas": [
     {
-      "name": "Manong William",
+      "name": "Manong William - Semana Nobela",
       "episodes": [
         {
           "title": "Episode 1",
@@ -64,6 +64,27 @@
         {
           "title": "Episode 3",
           "url": "inday/inday-ep03.mp3"
+        }
+      ]
+    },
+    {
+      "name": "Estranyo",
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "url": "semana-novela/estranyo/estra-ep01.mp3"
+        },
+        {
+          "title": "Episode 2",
+          "url": "semana-novela/estranyo/estra-ep02.mp3"
+        },
+        {
+          "title": "Episode 3",
+          "url": "semana-novela/estranyo/estra-ep03.mp3"
+        },
+        {
+          "title": "Episode 4",
+          "url": "semana-novela/estranyo/estra-ep04.mp3"
         }
       ]
     }
